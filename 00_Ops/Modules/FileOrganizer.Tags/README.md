@@ -1,0 +1,2 @@
+﻿# FileOrganizer.Tags
+Placeholder for D:\SYNTHPIRE_LLC\SYNTHPIRE_SYNTH_OS\00_Ops\Modules\FileOrganizer.Tags.

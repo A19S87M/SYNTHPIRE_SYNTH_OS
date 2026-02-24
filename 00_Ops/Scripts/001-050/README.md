@@ -1,0 +1,2 @@
+﻿# 001-050
+Placeholder for D:\SYNTHPIRE_LLC\SYNTHPIRE_SYNTH_OS\00_Ops\Scripts\001-050.

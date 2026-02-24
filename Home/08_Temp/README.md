@@ -1,0 +1,2 @@
+﻿# 08_Temp
+Placeholder for D:\SYNTHPIRE_LLC\SYNTHPIRE_SYNTH_OS\Home\08_Temp.
